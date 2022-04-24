@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/contribution-calculator/static/js/main.eea175d0.chunk.js",
+    "main.js.map": "/contribution-calculator/static/js/main.eea175d0.chunk.js.map",
+    "runtime-main.js": "/contribution-calculator/static/js/runtime-main.84fe42d6.js",
+    "runtime-main.js.map": "/contribution-calculator/static/js/runtime-main.84fe42d6.js.map",
+    "static/js/2.30cbd2da.chunk.js": "/contribution-calculator/static/js/2.30cbd2da.chunk.js",
+    "static/js/2.30cbd2da.chunk.js.map": "/contribution-calculator/static/js/2.30cbd2da.chunk.js.map",
+    "index.html": "/contribution-calculator/index.html",
+    "static/js/2.30cbd2da.chunk.js.LICENSE.txt": "/contribution-calculator/static/js/2.30cbd2da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84fe42d6.js",
+    "static/js/2.30cbd2da.chunk.js",
+    "static/js/main.eea175d0.chunk.js"
+  ]
+}
